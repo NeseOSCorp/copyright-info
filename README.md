@@ -21,3 +21,4 @@ Orxan Muxtarov (software engineer at NeseOS Corporation)
 Hemide Osmanli (CEO at HemideOS Corporation)
 
 David Guetta (second CEO (nowadays) at NeseOS Corporation)
+
